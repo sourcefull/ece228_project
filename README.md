@@ -21,14 +21,16 @@ Contents:
 - data/ : Directory that contains dataset 
 
 
-
-
 TODO: Play and improve the code. Adding analysis code snippets. Eventually code cleaning. 
+
+
+
+--------------------------------------------------------
 
 Instructions:
 - Install all the dependencies if necessary 
 - Place the dataset downloaded from https://www.kaggle.com/gti-upm/leapgestrecog in the data/ directory 
-- Hierarchy should look like data/leapGestRecog/* 
+- Hierarchy of data directory should look like data/leapGestRecog/* 
 - To run the training code : 
      python all.py -train -use_training_data 
      

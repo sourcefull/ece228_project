@@ -29,7 +29,7 @@ TODO: Play and improve the code. Adding analysis code snippets. Eventually code 
 
 Instructions:
 - Install all the dependencies if necessary 
-- Place the dataset downloaded from https://www.kaggle.com/gti-upm/leapgestrecog in the data/ directory 
+- make a directory named "data" and place the dataset downloaded from https://www.kaggle.com/gti-upm/leapgestrecog in the data directory 
 - Hierarchy of data directory should look like data/leapGestRecog/* 
 - To run the training code : 
      python all.py -train -use_training_data 

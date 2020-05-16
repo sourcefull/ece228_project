@@ -8,17 +8,17 @@ This is the github repository for group #78 for ECE 228
 
 Contents:
 
-all.py : Starter code 
+-all.py : Starter code 
 
-model.py : NN model 
+-model.py : NN model 
 
-*-Copy1.py : backup files
+-*-Copy1.py : backup files
 
-scratch_pad.ipynb : A notebook for scratch work and commandline usage 
+-scratch_pad.ipynb : A notebook for scratch work and commandline usage 
 
-model.h5 : weights' file 
+-model.h5 : weights' file 
 
-data/ : Directory that contains dataset 
+-data/ : Directory that contains dataset 
 
 
 
